@@ -6,7 +6,7 @@
     "name": "Ryan X Charles",
     "email": "ryan@bitpay.com"
   },
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/SDCDev/insight-api.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -54,7 +54,7 @@
     "bitcore": "git://github.com/SDCDev/bitcore.git",
     "base58-native": "0.1.2",
     "async": "*",
-    "leveldown": "*",
+    "leveldown": "0.10.2",
     "levelup": "*",
     "glob": "*",
     "soop": "=0.1.5",
